@@ -13,7 +13,7 @@
     "docs:build": "vuepress build docs"
   },
   "dependencies": {
-    "core-js": "^2.16.2-",
+    "core-js": "^2.16.2",
     "element-ui": "^2.15.6",
     "vue": "^2.6.11"
   },
